@@ -40,6 +40,7 @@ cc_binary {
     init_rc: ["src/ipacm.rc"],
     clang: true,
     vendor: true,
+    required: ["IPACM_cfg.xml"],
 
     shared_libs: [
 	"liboffloadhal",
