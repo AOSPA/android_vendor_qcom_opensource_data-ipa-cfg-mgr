@@ -52,7 +52,14 @@ extern "C"
 #include <sys/select.h>
 #include <sys/socket.h>
 #include <linux/socket.h>
+<<<<<<< HEAD   (b5223b ipacm: Remove arch check.)
+=======
+#include <inaddr.h>
+#include <linux/version.h>
+#if (LINUX_VERSION_CODE < KERNEL_VERSION(5, 9, 0))
+>>>>>>> CHANGE (ce7972 ipacm: changes for taro)
 #define sockaddr_storage __kernel_sockaddr_storage
+#endif
 #include <linux/if.h>
 #include <linux/if_addr.h>
 #include <linux/rtnetlink.h>
