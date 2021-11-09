@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "52fd4b3f_e1dc4370",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000143
+      },
+      "writtenOn": "2021-11-09T17:31:40Z",
+      "side": 1,
+      "message": "Fixes Hotspot",
+      "revId": "2e1373b0ee097f5d7b6e353c31151ff5e5040096",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    }
+  ]
+}
