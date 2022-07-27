@@ -16,6 +16,24 @@
       "message": "https://katb.in/efowuzeqave",
       "revId": "268a71a72e0c610d2afa11d83e80bf82f308c5f9",
       "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "3309a84f_c093323a",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000579
+      },
+      "writtenOn": "2022-07-27T07:09:24Z",
+      "side": 1,
+      "message": "build is broken for those who build kernel inline, do better testing before dropping V+1",
+      "parentUuid": "910f432d_cd32ce0e",
+      "revId": "268a71a72e0c610d2afa11d83e80bf82f308c5f9",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
     }
   ]
 }
