@@ -1,3 +1,6 @@
+PRODUCT_SOONG_NAMESPACES += \
+    vendor/qcom/opensource/data-ipa-cfg-mgr-legacy
+
 TARGET_DISABLE_IPACM := false
 
 ifneq ($(TARGET_BOARD_SUFFIX),_au)
