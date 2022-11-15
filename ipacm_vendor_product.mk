@@ -1,3 +1,6 @@
+PRODUCT_SOONG_NAMESPACES += \
+    vendor/qcom/opensource/data-ipa-cfg-mgr
+
 TARGET_DISABLE_IPACM := false
 
 #IPACM_DATA
