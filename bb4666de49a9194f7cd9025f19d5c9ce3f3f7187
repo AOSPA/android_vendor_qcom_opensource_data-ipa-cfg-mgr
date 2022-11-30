@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "70658bd8_287e011d",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000012
+      },
+      "writtenOn": "2022-11-30T03:40:58Z",
+      "side": 1,
+      "message": "vendor/qcom/opensource/data-ipa-cfg-mgr-legacy/ipanat/inc/ipa_nat_drvi.h:38:10: fatal error: \u0027linux/msm_ipa.h\u0027 file not found\n#include \u003clinux/msm_ipa.h\u003e",
+      "revId": "bb4666de49a9194f7cd9025f19d5c9ce3f3f7187",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    }
+  ]
+}
